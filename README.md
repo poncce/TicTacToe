@@ -9,7 +9,7 @@ Este proyecto es una implementación del clásico juego de Ta Te Ti (Tres en Ray
 ## Requisitos
 
 - Python 3.x
-- Tkinter (viene instalado con Python en la mayoría de las distribuciones). En caso de que no en la terminal escriben pip install tkinter o py -m pip install tkinter (Depende su version de Python)
+- Tkinter (viene instalado con Python en la mayoría de las distribuciones). 
 
 ## Instalación
 1. Clona este repositorio:
